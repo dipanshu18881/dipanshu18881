@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Dipanshu here ! 💙
+<!--
+### Dipanshu here ! 💙 -->
 ### I am an engineer with 3 years of industrial experience in building cool stuff for the lovely people of the world.
 ### My favourite food is Rajma - Rice. 😀
-### One day I'm going to be one of the best CEOs of the world. 😉
+### One day I'm going to be one of the best CEO of the world. 😉
 ------------------
 ![SI_20230506_074543 (1)](https://github.com/dipanshu18881/dipanshu18881/assets/66013226/10ffc47b-aa2a-444a-8eb1-b25f37d83eb0)
 
