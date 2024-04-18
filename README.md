@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![SI_20230506_074543 (1)](https://github.com/dipanshu18881/dipanshu18881/assets/66013226/10ffc47b-aa2a-444a-8eb1-b25f37d83eb0)
 
 ------------------
-### I’m currently working on building an eyecatching ecommerce website using Angular + Tailwind CSS + Spring Boot + Java, will share with you as soon as possible . . . 
+### I’m currently working on building an eyecatching ecommerce website using Angular + Tailwind CSS + Spring Boot + Java, will share with you as soon it is up and running . . . 
 
 ### You can have a look at the backend of the application for now at -> https://github.com/dipanshu18881/ProductService
 
