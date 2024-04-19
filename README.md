@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 ### Dipanshu here ! 💙 -->
 ### I am an engineer with 3 years of industrial experience in building cool stuff for the lovely people of the world.
 ### My favourite food is Rajma - Rice. 😀
-------------------
-![SI_20230506_074543 (1)](https://github.com/dipanshu18881/dipanshu18881/assets/66013226/10ffc47b-aa2a-444a-8eb1-b25f37d83eb0)
 
 ------------------
 ### I’m currently working on building an eyecatching ecommerce website using Angular + Tailwind CSS + Spring Boot + Java, will share with you as soon it is up and running . . . 
