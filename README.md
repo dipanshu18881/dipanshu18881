@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### You can have a look at the backend of the application for now at *https://github.com/dipanshu18881/ProductService*
 
 ------------------
-### I have setup the landing page for my business, you can visit it at *https://dipanshu18881.github.io/*
+### Landing page for business, you can visit it at *https://dipanshu18881.github.io/*
 ------------------
 ### *Website Preview* :
 ![Untitled design (1)](https://github.com/dipanshu18881/dipanshu18881/assets/66013226/e29f03d4-dc6d-41f4-af7f-d49157b5f35f)
