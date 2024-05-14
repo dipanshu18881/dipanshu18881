@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### My favourite food is Rajma - Rice. 😀
 
 ------------------
-### I’m currently working on building an eyecatching ecommerce website using Angular + Tailwind CSS + Spring Boot + Java, will share with you as soon it is up and running . . . 
+### I’m currently working on building an eyecatching ecommerce website using Angular + Tailwind CSS + Spring Boot + Java . . . 
 
 ### You can have a look at the backend of the application for now at *https://github.com/dipanshu18881/ProductService*
 <!--
