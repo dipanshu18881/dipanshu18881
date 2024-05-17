@@ -1,4 +1,4 @@
-<!--
+
 ![1628447494499](https://github.com/dipanshu18881/dipanshu18881/assets/66013226/4fb7d8a0-0c3c-4208-9673-5a5b836f4591)
 
 ----
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 ### Dipanshu here ! 💙 
 ### I am an engineer with 3 years of industrial experience in building cool stuff for the lovely people of the world.
 ### My favourite food is Rajma - Rice. 😀
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 ------------------
 ### *Website Preview* :
 ![Untitled design (1)](https://github.com/dipanshu18881/dipanshu18881/assets/66013226/e29f03d4-dc6d-41f4-af7f-d49157b5f35f)
-
+-->
 -------------------
 ### You can always reach out to me on LinkedIn at *https://www.linkedin.com/in/dipanshu-b953401b4/*
 <!--### For business related queries, please drop a mail at -> *mathuramenterprises@outlook.com*
@@ -43,6 +42,3 @@ Here are some ideas to get you started:
 
 ------------------
 ### That's all about me for now, I would love to hear about you too.
--->
-### I give up!
-### You win, I lose.
